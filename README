@@ -1,0 +1,11 @@
+Jennifer Quay Minnich
+10/21/20
+Lab 6: Array of Structures and all the other glorious things like enums and fgets/sscanf
+
+Purpose_
+
+Lab 6 had two major parts, the Zombie Apocolypse program was the first. The Zombie project had the array of structs and asked us to access and record the data from user input. 
+
+Conclusions_ 
+
+The framework of the program came together in a few hours but I had some initial trouble accessing the data from the array struct. I did get the data to print out correctly and was able to delete uneccesary and repetitive lines of code. I then added the user input data checks and the index loop.   
